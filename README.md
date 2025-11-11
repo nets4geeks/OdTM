@@ -39,7 +39,8 @@ the [OWL API](https://github.com/owlcs/owlapi)
 and [HermiT Reasoner](http://www.hermit-reasoner.com/) libraries.
 
 If you want to refer to OdTM, please, read [this article](https://www.researchgate.net/profile/Andrei-Brazhuk/publication/397190137_Automatic_analysis_of_containerized_application_deployment_models_based_on_ontologies_and_knowledge_graphs/links/69083e5c368b49329fa8edba/Automatic-analysis-of-containerized-application-deployment-models-based-on-ontologies-and-knowledge-graphs.pdf)
-and cite it:O4>Brazhuk A. Automatic analysis of containerized application deployment models based on ontologies and knowledge graphs //International Journal of Open Information Technologies. – 2025. – Т. 13. – N. 11. – С. 105-111.
+and cite it:
+>Brazhuk A. Automatic analysis of containerized application deployment models based on ontologies and knowledge graphs //International Journal of Open Information Technologies. – 2025. – Т. 13. – N. 11. – С. 105-111.
 
 ## Base Threat Model
 
