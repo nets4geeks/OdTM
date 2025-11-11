@@ -2,7 +2,7 @@
 # Threat modeling guide
 
 This guide describes an approach of the threat modeling of cloud computer systems,
-based on the [Ontology-driven threat modeling (OdTM)](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/) framework
+based on the Ontology-driven threat modeling (OdTM) framework
 and [Academic Cloud Computing Threat Patterns (ACCTP)](https://nets4geeks.github.io/acctp/) catalog.
 
 The OdTM framework is based on Data Flow Diagrams (DFDs), used to depict information flows between system components 
