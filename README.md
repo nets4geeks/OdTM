@@ -1,10 +1,9 @@
 
-# OWASP Ontology-driven threat modelling (OdTM) framework
+# Ontology-driven threat modelling (OdTM) framework
 
 Ontology-driven Threat Modelling (OdTM) framework is a set of means for implementation 
 of an ontological approach into automatic threat modelling of computer systems.
 
-It is an [OWASP Incubator Project](https://owasp.org/www-project-ontology-driven-threat-modeling-framework/).
 
 The ontological approach, provided by the OdTM framework, has two general benefits.
 Firstly, it enables formalization of security related knowledge 
@@ -42,11 +41,6 @@ and [HermiT Reasoner](http://www.hermit-reasoner.com/) libraries.
 If you want to refer to OdTM, please, read [this article](https://www.researchgate.net/publication/339415212_Security_patterns_based_approach_to_automatically_select_mitigations_in_ontology-driven_threat_modelling)
 and cite it:
 >Brazhuk A. Security patterns based approach to automatically select mitigations in ontology-driven threat modelling // Open Semantic Technologies for Intelligent Systems (OSTIS). – 2020. – №. 4. – С. 267-272
-
-Note, [the OWASP repository of the project is here](https://github.com/OWASP/OdTM)
-(please send your contributions, issues etc. to this one). 
-And a [mirror is here](https://github.com/nets4geeks/OdTM).
-
 
 ## Base Threat Model
 
