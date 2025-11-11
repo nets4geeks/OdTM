@@ -38,9 +38,8 @@ The applications are built with Java,
 the [OWL API](https://github.com/owlcs/owlapi) 
 and [HermiT Reasoner](http://www.hermit-reasoner.com/) libraries.
 
-If you want to refer to OdTM, please, read [this article](https://www.researchgate.net/publication/339415212_Security_patterns_based_approach_to_automatically_select_mitigations_in_ontology-driven_threat_modelling)
-and cite it:
->Brazhuk A. Security patterns based approach to automatically select mitigations in ontology-driven threat modelling // Open Semantic Technologies for Intelligent Systems (OSTIS). – 2020. – №. 4. – С. 267-272
+If you want to refer to OdTM, please, read [this article](https://www.researchgate.net/profile/Andrei-Brazhuk/publication/397190137_Automatic_analysis_of_containerized_application_deployment_models_based_on_ontologies_and_knowledge_graphs/links/69083e5c368b49329fa8edba/Automatic-analysis-of-containerized-application-deployment-models-based-on-ontologies-and-knowledge-graphs.pdf)
+and cite it:O4>Brazhuk A. Automatic analysis of containerized application deployment models based on ontologies and knowledge graphs //International Journal of Open Information Technologies. – 2025. – Т. 13. – N. 11. – С. 105-111.
 
 ## Base Threat Model
 
